@@ -8,6 +8,7 @@ models:
     - PresureRegressor_luna.cbm
     - PresureRegressor_crm.cbm
     - PresureRegressor_sphere.cbm
+    - PresureRegressor_all.cbm
  - model_torch
     - nn_model_luna.pth
     - scaler.pkl
