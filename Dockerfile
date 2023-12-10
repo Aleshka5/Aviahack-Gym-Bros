@@ -25,13 +25,13 @@ RUN pip install -q git+https://github.com/snap-stanford/deepsnap.git
 RUN pip install pandas
 RUN pip install matplotlib
 RUN pip install h5py
-RUN pip install tensorflow
 RUN pip install numba
 RUN pip install seaborn
 RUN pip install torchmetrics
 RUN pip install ipympl
 RUN pip install git+https://github.com/niasw/openfoamparser.git
 
+RUN pip install --no-cache-dir -r requirements.txt
 
 # Точка входа - юпитер ноутбук для удобства работы с файлами
 WORKDIR /home/jovyan

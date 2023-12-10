@@ -1,6 +1,6 @@
 from models.model_catboost import get_model_path
 from src.parser import parser_pipeline
-from src.load_predict import load_predict, load_model
+from src.load_predict import load_predict, load_cbmodel
 from catboost import CatBoostRegressor
 import pandas as pd
 import numpy as np
@@ -25,11 +25,11 @@ class PressureModel():
         predict = load_predict(df,geometry_type)
         return predict
 
-    def get_model(self):
+    def get_model(self,geomety_type):
         '''
         Получить модель для обучения или любых других манипуляций.
         '''
-        return load_model()
+        return load_cbmodel(geomety_type)
 
     def save_model(self,model : CatBoostRegressor,name :str):
         '''
