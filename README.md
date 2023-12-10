@@ -1,4 +1,4 @@
-# Aviahack-Gym-Bros
+# Aviahack-Gym-Bros ![image](https://github.com/Aleshka5/Aviahack-Gym-Bros/assets/78702396/63205cb3-4ed3-4e7b-a6d9-78f366cdbe1e)
 
 Переданные на флешке модели сохраняют исходное местоположение в корневой папке прокета. Получается так:
 models:
