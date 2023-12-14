@@ -1,5 +1,5 @@
-# Aviahack-Gym-Bros ![image](https://github.com/Aleshka5/Aviahack-Gym-Bros/assets/78702396/63205cb3-4ed3-4e7b-a6d9-78f366cdbe1e)
-
+# Aviahack-Gym-Bros 
+![image](https://github.com/Aleshka5/Aviahack-Gym-Bros/assets/78702396/63205cb3-4ed3-4e7b-a6d9-78f366cdbe1e)
 # Введение
 # Проблематика
 # Быстрое решение (CatBoost)
