@@ -1,5 +1,5 @@
 from models.model_catboost import get_model_path
-from src.parser import parser_pipeline
+from src.parser_1 import parser_pipeline
 from src.load_predict import load_predict, load_cbmodel
 from catboost import CatBoostRegressor
 import pandas as pd
@@ -9,11 +9,11 @@ class PressureModel():
     def __init__(self) -> None:
         pass
 
-    def pipeline(self, path) -> pd.DataFrame:
+    def pipeline(self, path, is_train=False, with_normals=True) -> pd.DataFrame:
         '''
         Препроцессинг данных в структуру pd.DataFrame
         '''
-        df = parser_pipeline(path)
+        df = parser_pipeline(path, is_train=is_train, with_normals=with_normals)
         return df
 
     def load_predict(self, df :pd.DataFrame, geometry_type:str) -> pd.DataFrame:
