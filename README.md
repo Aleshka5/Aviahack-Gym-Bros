@@ -11,8 +11,12 @@
   - Скорость ветра
   - Направление ветра
 
-Всего у нас было 3 модели:
-![sphere_animation](https://github.com/Aleshka5/Aviahack-Gym-Bros/assets/78702396/e49e387e-15e7-4401-b891-d36df0cdd6e5)
+Всего у нас было 4 модели:
+<p><img src="https://github.com/Aleshka5/Aviahack-Gym-Bros/blob/normal-gpu-calculating/gifs/sphere_animation.gif" width="255" height="255" alt="lorem">
+<img src="https://github.com/Aleshka5/Aviahack-Gym-Bros/blob/normal-gpu-calculating/gifs/crm_animation.gif" width="255" height="255" alt="lorem">
+<img src="https://github.com/Aleshka5/Aviahack-Gym-Bros/blob/normal-gpu-calculating/gifs/luna_animation.gif" width="255" height="255" alt="lorem">
+<img src="https://github.com/Aleshka5/Aviahack-Gym-Bros/blob/normal-gpu-calculating/gifs/agrad_animation.gif" width="255" height="255" alt="lorem"></p>
+
 
 # Быстрое решение (CatBoost)
 # Новые признаки
