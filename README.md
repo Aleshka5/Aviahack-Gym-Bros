@@ -12,10 +12,10 @@
   - Направление ветра
 
 Всего у нас было 4 модели:
-<p><img src="https://github.com/Aleshka5/Aviahack-Gym-Bros/blob/normal-gpu-calculating/gifs/sphere_animation.gif" width="255" height="255" alt="lorem">
-<img src="https://github.com/Aleshka5/Aviahack-Gym-Bros/blob/normal-gpu-calculating/gifs/crm_animation.gif" width="255" height="255" alt="lorem">
-<img src="https://github.com/Aleshka5/Aviahack-Gym-Bros/blob/normal-gpu-calculating/gifs/luna_animation.gif" width="255" height="255" alt="lorem">
-<img src="https://github.com/Aleshka5/Aviahack-Gym-Bros/blob/normal-gpu-calculating/gifs/agrad_animation.gif" width="255" height="255" alt="lorem"></p>
+<p><img src="https://github.com/Aleshka5/Aviahack-Gym-Bros/blob/normal-gpu-calculating/gifs/sphere_animation.gif" width="400" height="400" alt="lorem">
+<img src="https://github.com/Aleshka5/Aviahack-Gym-Bros/blob/normal-gpu-calculating/gifs/crm_animation.gif" width="400" height="400" alt="lorem">
+<img src="https://github.com/Aleshka5/Aviahack-Gym-Bros/blob/normal-gpu-calculating/gifs/luna_animation.gif" width="400" height="400" alt="lorem">
+<img src="https://github.com/Aleshka5/Aviahack-Gym-Bros/blob/normal-gpu-calculating/gifs/agard_animation.gif" width="400" height="400" alt="lorem"></p>
 
 
 # Быстрое решение (CatBoost)
